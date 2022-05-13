@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Understanding Human Style Perception via Eye-tracking
 
-You can use the [editor on GitHub](https://github.com/minnesotanlp/text_style/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+PI: Prof. Dongyeop Kang
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+IRB number: STUDY00015556
 
-### Markdown
+### Study
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are interested in evaluating how humans process different textual styles (e.g. informal, polite) in order to improve natural language processing models.
 
-```markdown
-Syntax highlighted code block
+**Eligibility:** Adult (18 or older), English speaking, with normal or corrected-to-normal vision.
 
-# Header 1
-## Header 2
-### Header 3
+**Study procedure:** Participants will read a series of 1-2 sentence texts (about 2,000 words overall) while their eye movements are tracked. The data collected during this experiment is gaze data, i.e., the focal coordinates of the pupil on the display screen, as well as pupil diameter and responses to short comprehension questions.
 
-- Bulleted
-- List
+**Payment:** $15 via Amazon gift card
 
-1. Numbered
-2. List
+Contact info:
+Study Coordinator: Karin de Langis
+Email: dento019@umn.edu
 
-**Bold** and _Italic_ and `Code` text
+To participate, book an appointment on our [Google calendar](https://calendar.google.com/calendar/appointments/schedules/AcZssZ30CgxGChj6Be182K555AdHln6tDm0Ov3lBFQ_hYmezyXc8cAes2hoy9INTtSJ7k1-P0w-QLoOg) or email the study coordinator.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/minnesotanlp/text_style/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Other opportunities
+The lab has another ongoing study on reader engagement that is also currently recruiting participants. More info can be found [here](https://github.com/minnesotanlp/reader_engagement).
