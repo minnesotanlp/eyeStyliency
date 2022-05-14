@@ -18,4 +18,4 @@ To participate, book an appointment on our [Google calendar](https://calendar.go
 
 
 ### Other opportunities
-You may also be interested in participating in an ongoing study on reader engagement. More info can be found [here](https://github.com/minnesotanlp/reader_engagement).
+You may also be interested in participating in an ongoing study on reader engagement. More info can be found [here](http://minnesotanlp.github.io/reader_engagement).
