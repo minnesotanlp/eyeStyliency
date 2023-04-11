@@ -1,6 +1,6 @@
-theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-minimal
 title: News Article Reading Study
 description: Sign up and other info for participants
 show_downloads: false
-plugins:
-- jekyll-remote-theme
+github:
+  is_project_page: false
