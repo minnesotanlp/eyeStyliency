@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/midnight@v0.2.0
+title: News Article Reading Study
+description: Sign up and other info for participants
+show_downloads: false
