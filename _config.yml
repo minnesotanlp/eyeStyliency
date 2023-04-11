@@ -3,4 +3,4 @@ title: News Article Reading Study
 description: Sign up and other info for participants
 show_downloads: false
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme
